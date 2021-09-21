@@ -25,9 +25,12 @@ tx2sb=new();
 mon2sb=new();
 this.inf=inf;
 this.cfg=cfg;
+//--------------------------------
 
+manipal_mirafra
+welcome to mirafra
 
-
+//--------------------------------
 tx=new(pkt1,tx2drv,tx2sb,cfg);
 drv=new(pkt1,tx2drv,inf);
 mon=new(pkt2,mon2sb,inf);
